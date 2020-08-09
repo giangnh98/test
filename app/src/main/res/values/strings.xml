@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="high_school_reunion">High school reunion</string>
+    <string name="navigate_back_icon_content_desc">Navigate back</string>
+    <string name="profile_card_transition_name">profile_card_%1$s</string>
+    <string name="email_sender_profile_content_desc">Profile image of sender</string>
+    <string name="email_recipient_to">Company: %1$s</string>
+</resources>
